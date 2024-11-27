@@ -1,4 +1,6 @@
-User -agent: *
-Disallow:
+User -agent: Googlebot
+Allow: /
+
+Disallow: /
 
 Sitemap: https://saralynmagno-nisu-cics.site/sitemap.xml
